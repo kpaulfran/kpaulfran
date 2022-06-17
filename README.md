@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kpaulfran
+- 👀 I’m interested in python and data science
+- 🌱 I’m currently learning in a degree of big data and data science
+- 💞️ I’m looking to collaborate on any solution that i can find
+- 📫 email: kpaulfran23@gmail.com
